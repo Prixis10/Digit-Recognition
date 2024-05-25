@@ -1,34 +1,34 @@
-# 🔢 Digit Recognition: Kaggle Competition
+# 🖥️ Digit Recognition: Kaggle Digit Recognizer Competition
 
-Predicting handwritten digit recognition using deep learning with comprehensive data analysis, visualization, and model building.
+Predicting handwritten digit recognition using deep learning with comprehensive data visualization and model building using TensorFlow and Keras.
 
 ## Overview 📜
 
-This repository contains my solutions and analyses for the Kaggle competition ["Digit Recognizer"](https://www.kaggle.com/c/digit-recognizer). The goal is to predict handwritten digits from images using deep learning techniques. This project was undertaken as an introductory project in deep learning using Artificial Neural Networks (ANN) with the help of TensorFlow and Keras.
+This repository contains my solutions and analyses for the Kaggle competition ["Digit Recognizer"](https://www.kaggle.com/c/digit-recognizer). The goal is to predict handwritten digit recognition using deep learning techniques. This project was undertaken as an introductory project in deep learning.
 
 ## Project Overview 🧩
 
-### 1. Data Visualization and Exploration 🔍
+### 1. Data Exploration and Visualization 🔍
 
 - Analyze the dataset to understand its structure and content.
 - Visualize important features using Matplotlib and Seaborn to identify patterns and relationships.
 
 ### 2. Data Preprocessing and Feature Engineering 🔧
 
-- Clean and preprocess the data to ensure it is suitable for model training.
+- Clean the data by handling missing values and correcting inconsistencies.
 - Normalize and scale features as necessary.
 
 ### 3. Model Building and Evaluation 🤖
 
-- Implemented an ANN model using TensorFlow and Keras APIs.
-- Evaluated the model using various performance metrics.
-- Achieved a decent score of 1271 on the Kaggle leaderboard.
+- Implemented an Artificial Neural Network (ANN) model using TensorFlow and Keras.
+- Evaluated the model using appropriate performance metrics.
+- Fine-tuned the model parameters to optimize performance.
 
 ### 4. Submission 📤
 
 - Generated predictions for the test dataset using the trained ANN model.
 - Formatted the predictions according to Kaggle’s submission requirements.
-- Submitted the results to Kaggle for evaluation.
+- Submitted the results to Kaggle and achieved a global ranking of 1271.
 
 ## Contents 📂
 
